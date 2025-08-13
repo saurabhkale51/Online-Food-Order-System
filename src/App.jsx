@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { Route, Routes } from "react-router-dom";
 import Home from "./Pages/Home";
 import Login from "./Pages/Login";
@@ -19,3 +20,5 @@ export default function App() {
     </Routes>
   )
 }
+=======
+>>>>>>> 5469cb48eedc666d422906f15dc339ad629012a9
