@@ -1,0 +1,40 @@
+{
+    "food":[
+        {
+            "id": 1,
+            "name":"Pizza",
+            "price": 300,
+            "description":"Delicious cheese pizza with fresh toppings",
+            "imgae":"https://cdn.pixabay.com/photo/2024/04/23/09/32/ai-generated-8714517_1280.jpg"
+        },
+      {
+            "id": 2,
+            "name":"Burger",
+            "price": 100,
+            "description":"Just a simple burger with lettuce and tomato",
+            "imgae":"https://www.freepik.com/free-photo/juicy-cheeseburger-rustic-wooden-board_269342352.htm#fromView=keyword&page=1&position=22&uuid=76f357da-a6b3-42e8-92f3-29adcf991b83&query=Burger"
+        },
+        {
+            "id": 3,
+            "name":"Pasta",
+            "price": 150,
+            "description":"Creamy pasta with garlic and herbs",
+            "imgae":"https://www.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_7677636.htm#fromView=search&page=1&position=20&uuid=1cd05e16-02cf-405f-b81f-1b0e4d664563&query=pasta"
+        },
+        {
+            "id": 4,
+            "name":"Salad",
+            "price": 80,
+            "description":"Fresh garden salad with mixed greens and vinaigrette",
+            "imgae":"https://www.freepik.com/free-photo/fresh-vegetables-colorful-sliced-such-as-cucumbers-red-tomatoes-onion-wooden-rustic-surface_8852899.htm#fromView=search&page=1&position=2&uuid=dd674c6e-3d1b-4b9c-80d8-a7aa7b474dfe&query=salad"
+        },
+        {
+            "id": 5,
+            "name":"Nuddles",
+            "price": 120,
+            "description":"Spicy noodels with vegetables and chiken",
+            "imgae":"https://www.freepik.com/premium-photo/schezwan-noodles-vegetable-hakka-noodles-chow-mein-is-popular-indo-chinese-recipes-served-bowl-plate-with-wooden-chopsticks_17542956.htm#fromView=search&page=1&position=8&uuid=e0b83c9b-922e-4cea-a9c0-36275bce5a52&query=nuddles"
+        }
+        
+    ]
+}
