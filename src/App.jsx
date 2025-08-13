@@ -7,6 +7,7 @@ import SignUp from "./Pages/SignUp";
 
 
 export default function App() {
+  console.log('testing');
   return (
     <Routes>
       <Route path="/" element={<Home/>}/>
